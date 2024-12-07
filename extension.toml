@@ -1,7 +1,7 @@
-id = "tokyo-night"
-name = "Tokyo Night Themes"
-version = "0.4.0"
+id = "tokyo-midnight"
+name = "Tokyo Midnight Themes"
+version = "0.1.0"
 schema_version = 1
-authors = ["ssaunderss <austinsaunders@me.com>"]
-description = "Tokyo Night Themes"
-repository = "https://github.com/ssaunderss/zed-tokyo-night"
+authors = ["pranshuj73 <hello@pranshujha.com>"]
+description = "Tokyo Midnight Themes"
+repository = "https://github.com/pranshuj73/zed-tokyo-midnight"
